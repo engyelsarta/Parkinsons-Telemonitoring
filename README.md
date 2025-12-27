@@ -1,1 +1,1 @@
-# Parkinson-s-Telemonitoring
+# Parkinsons-Telemonitoring
